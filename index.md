@@ -4,6 +4,6 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## this is a AI image for the watch waterproof function
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+And you can include links, like this [link to fast.ai](https://mp.weixin.qq.com/s/8vpE6jiDAi5EHQAD2B_nlA). Posts will appear after this file. 
 
 Hey, this is a Daniel's Blog
