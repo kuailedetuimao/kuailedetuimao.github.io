@@ -5,6 +5,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ## this is a AI image for the watch waterproof function
 
 And you can include links, like this [123](https://mp.weixin.qq.com/s/8vpE6jiDAi5EHQAD2B_nlA).
+
+
 [aaa](https://mp.weixin.qq.com/s/8vpE6jiDAi5EHQAD2B_nlA)Posts will appear after this file. 
 
 Hey, this is a Daniel's Blog
